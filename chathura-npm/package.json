@@ -1,0 +1,23 @@
+{
+  "name": "chathura-npm",
+  "version": "1.0.0",
+  "description": "this is my test npm pakage",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathurapriyashan/chathura-npm.git"
+  },
+  "keywords": [
+    "test",
+    "chathura"
+  ],
+  "author": "chathura priyashan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chathurapriyashan/chathura-npm/issues"
+  },
+  "homepage": "https://github.com/chathurapriyashan/chathura-npm#readme"
+}
